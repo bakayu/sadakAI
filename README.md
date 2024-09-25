@@ -1,4 +1,4 @@
-# sadaakAI
+# sadakAI
 ### your one stop solution for learning guidance.
 <br>
 
