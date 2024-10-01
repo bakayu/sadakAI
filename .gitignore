@@ -1,9 +1,7 @@
-test.py
-<<<<<<< HEAD
 .vscode
-=======
 settup.py
 .vscode/
+.idea/
 .workshop/
 __pycache__/
 checkpoints/
@@ -13,4 +11,3 @@ model/04_weightloading/__pycache__/
 model/04_weightloading/gpt2/
 model/04_weightloading/checkpoints/
 model/05_finetuning/checkpoints/
->>>>>>> 056971c (uploading LLM files)
